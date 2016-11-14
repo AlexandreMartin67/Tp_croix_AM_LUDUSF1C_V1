@@ -53,6 +53,6 @@ DEBUT
 		SINON
 			ECRIRE(' ')
 		FIN SI;
-	FIN SI;
+	FIN;
 FIN
 *)
